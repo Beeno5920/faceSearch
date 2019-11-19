@@ -9,14 +9,16 @@ contact sheet contains those faces will be generated for each input images.
 
 ### Example:
 Searching "Mark" on the images in small_img.zip:
+
 Those images are:
-![a-0.png]https://github.com/Beeno5920/faceSearch/blob/master/a-0.png
-![a-1.png]https://github.com/Beeno5920/faceSearch/blob/master/a-1.png
-![a-2.png]https://github.com/Beeno5920/faceSearch/blob/master/a-2.png
-![a-3.png]https://github.com/Beeno5920/faceSearch/blob/master/a-3.png
+![a-0.png](https://github.com/Beeno5920/faceSearch/blob/master/a-0.png)
+![a-1.png](https://github.com/Beeno5920/faceSearch/blob/master/a-1.png)
+![a-2.png](https://github.com/Beeno5920/faceSearch/blob/master/a-2.png)
+![a-3.png](https://github.com/Beeno5920/faceSearch/blob/master/a-3.png)
 
 And the corresponding search results are:
-![resultOfa-0.png]https://github.com/Beeno5920/faceSearch/blob/master/resultOfa-0.png
-![resultOfa-1.png]https://github.com/Beeno5920/faceSearch/blob/master/resultOfa-1.png
-![resultOfa-2.png]https://github.com/Beeno5920/faceSearch/blob/master/resultOfa-2.png
-![resultOfa-3.png]https://github.com/Beeno5920/faceSearch/blob/master/resultOfa-3.png
+
+![resultOfa-0.png](https://github.com/Beeno5920/faceSearch/blob/master/resultOfa-0.png)
+![resultOfa-1.png](https://github.com/Beeno5920/faceSearch/blob/master/resultOfa-1.png)
+![resultOfa-2.png](https://github.com/Beeno5920/faceSearch/blob/master/resultOfa-2.png)
+![resultOfa-3.png](https://github.com/Beeno5920/faceSearch/blob/master/resultOfa-3.png)
