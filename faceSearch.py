@@ -58,6 +58,7 @@ def search(keyword, images):
                     else:
                         x += 100
                 #display(contactSheet)
+                contactSheet.save("resultOf{}".format(imageName))
                 contactSheet.show()
             else:
                 print("Results found in file {} \nBut there were no faces in that file".format(imageName))
