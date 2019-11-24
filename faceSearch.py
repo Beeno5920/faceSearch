@@ -67,12 +67,12 @@ def search(keyword, images):
 
 
 def main():
-    # testing images.zip file
+    keyword = input("Enter Keyword: ")
     images = getImagesFromZipFile("readonly/small_img.zip")
     getText(images)
     findFaces(images)
-    print("===Searching 'Mark' in the small images===")
-    search("Mark", images)
+    print(f"===Searching {keyword} in the small images===")
+    search(keyword, images)
 
 
 if __name__ == '__main__':
